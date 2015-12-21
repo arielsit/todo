@@ -116,4 +116,3 @@ puts "Task ID  |  Task Name  |  Completion (0 = not completed, 1 = completed)"
 
 todo_menu
 
-
